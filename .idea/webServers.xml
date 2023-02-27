@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8a43fd4c-2bb9-4747-aa07-21a6e22af09a" name="testpanda" url="http://f29-preview.awardspace.net">
+        <fileTransfer accessType="SFTP" host="f29-preview.awardspace.net" port="221" sshConfigId="42abba5e-a191-479d-84be-5e5cb5f97a66" sshConfig="4268655@f29-preview.awardspace.net:221 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

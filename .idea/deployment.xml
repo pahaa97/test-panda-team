@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="testpanda" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="testpanda">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/testpanda.atwebpages.com" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

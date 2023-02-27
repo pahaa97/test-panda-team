@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="f29-preview.awardspace.net" id="42abba5e-a191-479d-84be-5e5cb5f97a66" port="221" nameFormat="DESCRIPTIVE" username="4268655" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
